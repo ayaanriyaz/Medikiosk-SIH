@@ -1,0 +1,11 @@
+{
+  "name": "Remix Remix Copy of Remix Remix MediKiosk",
+  "description": "AI-Powered Clinical Intake \u0026 Pre-Consultation Platform for SIH 2026 - Ministry of Ayush \u0026 AIIA",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
